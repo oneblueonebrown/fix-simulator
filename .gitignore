@@ -1,0 +1,30 @@
+# .NET build outputs
+bin/
+obj/
+
+# NuGet package restore artifacts
+*.user
+*.suo
+.nuget/
+packages/
+
+# Rider/JetBrains IDE files
+.idea/
+
+# VS Code (in case you ever open the project there)
+.vscode/
+
+# macOS filesystem artifacts
+.DS_Store
+
+# Test results and coverage reports
+TestResults/
+coverage/
+*.coveragexml
+
+# Logs
+*.log
+logs/
+
+# Rider's local run configurations (machine-specific)
+.run/

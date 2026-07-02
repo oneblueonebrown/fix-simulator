@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FixSimulator.Domain/FixSimulator.Domain.csproj" />
+    <Project Path="src/FixSimulator.Exchange/FixSimulator.Exchange.csproj" />
+    <Project Path="src/FixSimulator.Fix/FixSimulator.Fix.csproj" />
+    <Project Path="src/FixSimulator.MatchingEngine/FixSimulator.MatchingEngine.csproj" />
+    <Project Path="src/FixSimulator.Trader/FixSimulator.Trader.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FixSimulator.Domain.Tests/FixSimulator.Domain.Tests.csproj" />
+    <Project Path="tests/FixSimulator.Fix.Tests/FixSimulator.Fix.Tests.csproj" />
+    <Project Path="tests/FixSimulator.MatchingEngine.Tests/FixSimulator.MatchingEngine.Tests.csproj" />
+  </Folder>
+</Solution>
